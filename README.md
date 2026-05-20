@@ -1,16 +1,53 @@
-## Hi there 👋
+# Olá, eu sou Francisco Maximino Grifoni Billar 👋
 
-<!--
-**Fgrifoni/Fgrifoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Sistemas de Informação na UNIARA  
+💻 Analista de Suporte de TI | Infraestrutura | Backend Java  
+🚀 Focado em suporte corporativo, infraestrutura e desenvolvimento backend  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias e Ferramentas
+
+- Java
+- Spring Boot
+- PostgreSQL
+- Docker
+- Git
+- Linux
+- Windows
+- APIs REST
+- Maven
+- ITIL
+- Redes e Infraestrutura
+
+---
+
+## 💼 Áreas de atuação
+
+✔️ Suporte Técnico N1/N2  
+✔️ Infraestrutura de TI  
+✔️ Troubleshooting  
+✔️ Desenvolvimento Backend  
+✔️ APIs REST  
+✔️ Banco de Dados  
+✔️ Docker e Containers  
+
+---
+
+## 📚 Atualmente estudando
+
+- Spring Security + JWT
+- Arquitetura Backend
+- Docker
+- APIs RESTful
+- Boas práticas Java
+
+---
+
+## 📫 Contato
+
+LinkedIn:
+[linkedin.com/in/francisco-grifoni](https://linkedin.com)
+
+---
+⭐ Sempre buscando evolução profissional e novos desafios na área de tecnologia.
